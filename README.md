@@ -1,0 +1,3 @@
+# QuotesAPI
+
+Simple Random Api 
